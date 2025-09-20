@@ -25,7 +25,7 @@ We are the fish and we need to survive the longest in a meteor shower . you need
 ### Implementation
 
 #### Installation / Setup
-[simply run
+simply run
 
 **Example:**
 ```bash
@@ -37,13 +37,13 @@ We are the fish and we need to survive the longest in a meteor shower . you need
 
 ### Screenshots (Add at least 3)
 
-!https://drive.google.com/file/d/13-U0gEpC7z2DPAtE1ZzLjg4ZhoqQ-WEc/view?usp=drive_link(Add screenshot 1 link)  
+https://drive.google.com/file/d/13-U0gEpC7z2DPAtE1ZzLjg4ZhoqQ-WEc/view?usp=drive_link
 *Add caption explaining what this shows*
 
-!https://drive.google.com/file/d/1hNOztZJJC-8Z1vYXopp2c2K_bvIu1BGh/view?usp=drive_link(Add screenshot 2 link)  
+https://drive.google.com/file/d/1hNOztZJJC-8Z1vYXopp2c2K_bvIu1BGh/view?usp=drive_link
 *Add caption explaining what this shows*
 
-!https://drive.google.com/file/d/1po0ophtSO77pS6U8vivSNDBe7g06EJzv/view?usp=drive_link(Add screenshot 3 link)  
+https://drive.google.com/file/d/1po0ophtSO77pS6U8vivSNDBe7g06EJzv/view?usp=drive_link
 *Add caption explaining what this shows*
 
 ### Game Demo
@@ -52,6 +52,5 @@ We are the fish and we need to survive the longest in a meteor shower . you need
 https://drive.google.com/file/d/1po0ophtSO77pS6U8vivSNDBe7g06EJzv/view?usp=drive_link  
 
 ## Game Download / Deployment
-- **Playable Version / Download:** [Link to executable or archive]
 - **Deployed Web Version (if any):** [https://meteor-shower-u5rk.vercel.app/]
 
