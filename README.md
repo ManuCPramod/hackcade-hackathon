@@ -26,13 +26,6 @@ We are the fish and we need to survive the longest in a meteor shower . you need
 
 #### Installation / Setup
 simply run
-
-**Example:**
-```bash
-   git clone https://github.com/[YourRepo]/[GameName].git
-   cd [GameName]
-```
-
 ## Game Documentation
 
 ### Screenshots (Add at least 3)
